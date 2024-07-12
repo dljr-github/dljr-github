@@ -17,6 +17,7 @@ I thrive in:
 - Designed and built hardware projects, including a custom 3D printer and a 3D printed bionic arm.
 
 [![kawaiipooptato's GitHub stats](https://github-readme-stats.vercel.app/api?username=dljr-github)](https://github.com/anuraghazra/github-readme-stats))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dljr-github&layout=compact)
 
 ## Connect with Me
 - Find me on [LinkedIn](https://www.linkedin.com/in/darrell-lek/)
