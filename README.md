@@ -16,8 +16,12 @@ I thrive in:
 - Contributed to various RPA projects automating database tasks with Shell and PowerShell scripts.
 - Designed and built hardware projects, including a custom 3D printer and a 3D printed bionic arm.
 
-[![kawaiipooptato's GitHub stats](https://github-readme-stats.vercel.app/api?username=dljr-github)](https://github.com/anuraghazra/github-readme-stats))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dljr-github&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dljr-github&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dljr-github&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 
 ## Connect with Me
 - Find me on [LinkedIn](https://www.linkedin.com/in/darrell-lek/)
