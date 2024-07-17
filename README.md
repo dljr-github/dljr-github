@@ -5,8 +5,7 @@ I'm Darrell, a passionate coder with a deep passion for technology. Since my ear
 
 ## Tech Stack
 I thrive in:
-- **Languages**: C, C++, Java, JavaScript, Lua, ASM, Python, TypeScript, Kotlin, Shell scripts, PowerShell scripts, VBA, Arduino, GLSL.
-- **Technologies**: Open-source LLMs, Image Generation.
+- **Languages**: C, C++, Java, JavaScript, Lua, ASM, Python, TypeScript, Kotlin, Shell scripts, PowerShell scripts, VBA, Arduino, GLSL, HLSL.
 - **Cloud Services**: Proficient in using cloud endpoints such as Amazon EC2, Vercel, and Google Compute.
 
 ## Highlights
